@@ -1,4 +1,4 @@
-In this project, we implement a Least Significant Bit (LSB) Image Steganography system using BMP image files.
+In this project, I have implemented a Least Significant Bit (LSB) Image Steganography system using BMP image files.
 The process involves encoding (hiding) and decoding (retrieving) information by manipulating the least significant bits of the RGB pixel data in the BMP file.
 
 This implementation supports encoding and decoding of multiple file types, including:
